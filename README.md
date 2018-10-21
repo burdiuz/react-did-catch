@@ -48,3 +48,5 @@ export default () => (
   </ErrorCatcherProvider>
 );
 ```
+
+> For React Native [global error handler extension](https://github.com/master-atul/react-native-exception-handler) is available.
