@@ -1,5 +1,7 @@
 # React Did Catch
 
+> Note: After revisiting this work I see this will not going to work and not going to expand in this direction. it's now archived.
+
 Simple wrapper for `componentDidCatch` using react context provides
 methods to catch errors in event handlers.
 
